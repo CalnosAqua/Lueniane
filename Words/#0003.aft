@@ -4,7 +4,7 @@ forms: (name, styles) {
 		"spell", "ef";
 		"pron", "ef";
 	};
-	"複数形", (name, shape) {
+	"組数形", (name, shape) {
 		"spell", "fie";
 		"pron", "fiː";
 	};

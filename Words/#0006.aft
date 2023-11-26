@@ -1,0 +1,15 @@
+id: 5;
+forms: (name, styles) {
+	"組数形", (name, shape) {
+		"spell", "jua";
+		"pron", "jaː";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "私と貴方", "僕と君", "俺とお前", "我と汝";
+	desc: (title, content) {
+		"語義/説明", "話の中心となる自身と相手を指す。";
+	};
+};
+relations: null;
