@@ -1,0 +1,19 @@
+id: 7;
+forms: (name, styles) {
+	null, (name, shape) {
+		"spell", "et";
+		"pron", "et";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "いつ";
+	desc: (title, content) {
+		"語義/説明", "定まっていない時間や時刻などを指す。";
+	};
+};
+relations: {
+	id: 6;
+	type: "派生元";
+	summary: null;
+};

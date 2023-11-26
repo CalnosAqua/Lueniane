@@ -1,0 +1,19 @@
+id: 6;
+forms: (name, styles) {
+	null, (name, shape) {
+		"spell", "tēle";
+		"pron", "teːlə";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "いつ";
+	desc: (title, content) {
+		"語義/説明", "定まっていない時間や時刻などを指す。";
+	};
+};
+relations: {
+	id: 7;
+	type: "派生先";
+	summary: null;
+};

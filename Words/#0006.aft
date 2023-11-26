@@ -1,6 +1,6 @@
 id: 5;
 forms: (name, styles) {
-	"組数形", (name, shape) {
+	null, (name, shape) {
 		"spell", "jua";
 		"pron", "jaː";
 	};
