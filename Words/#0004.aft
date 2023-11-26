@@ -1,0 +1,19 @@
+id: 3;
+forms: (name, styles) {
+	"単数形", (name, shape) {
+		"spell", "nie";
+		"pron", "niː";
+	};
+	"複数形", (name, shape) {
+		"spell", "nies";
+		"pron", "niːs";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "これ", "こいつ", "ここ", "こちら", "この～";
+	desc: (title, content) {
+		"語義/説明", "自身から見てより近くの場所や時間、ものなどを指す。";
+	};
+};
+relations: null;

@@ -1,0 +1,19 @@
+id: 1;
+forms: (name, styles) {
+	"単数形", (name, shape) {
+		"spell", "de";
+		"pron", "də";
+	};
+	"複数形", (name, shape) {
+		"spell", "tia";
+		"pron", "tʲa";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "貴方", "君", "お前", "汝";
+	desc: (title, content) {
+		"語義/説明", "聴衆や読者の様な意思や情報などを伝える相手を指す。";
+	};
+};
+relations: null;

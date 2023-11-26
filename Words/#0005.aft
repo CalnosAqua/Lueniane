@@ -1,0 +1,19 @@
+id: 4;
+forms: (name, styles) {
+	"単数形", (name, shape) {
+		"spell", "sie";
+		"pron", "ʃiː";
+	};
+	"複数形", (name, shape) {
+		"spell", "sien";
+		"pron", "ʃiːn";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "あれ", "あいつ", "あそこ", "あちら", "あの～";
+	desc: (title, content) {
+		"語義/説明", "自身から見てより遠くの場所や時間、ものなどを指す。";
+	};
+};
+relations: null;

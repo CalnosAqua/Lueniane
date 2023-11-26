@@ -1,0 +1,19 @@
+id: 0;
+forms: (name, styles) {
+	"単数形", (name, shape) {
+		"spell", "le";
+		"pron", "lə";
+	};
+	"複数形", (name, shape) {
+		"spell", "lia";
+		"pron", "lʲa";
+	};
+};
+senses: {
+	pos: "名詞", "代名詞";
+	trans: "私", "僕", "俺", "我";
+	desc: (title, content) {
+		"語義/説明", "話者や著者の様な意思や情報などを伝えようとしている人自身を指す。";
+	};
+};
+relations: null;
